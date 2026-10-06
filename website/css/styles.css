@@ -111,9 +111,10 @@ button,input,select,textarea{font:inherit;color:inherit}
 .trust-grid{display:grid;grid-template-columns:repeat(4,1fr)}
 .trust-item{display:flex;gap:14px;align-items:center;padding:24px 20px}
 .trust-item + .trust-item{border-left:1px solid var(--border)}
-.trust-icon{width:44px;height:44px;border-radius:12px;display:grid;place-items:center;flex-shrink:0;font-size:20px;border:2px solid var(--navy)}
+.trust-icon{width:52px;height:52px;border-radius:14px;display:grid;place-items:center;flex-shrink:0;border:2.5px solid var(--navy);color:var(--ink)}
+.trust-icon svg{width:26px;height:26px}
 .trust-item strong{display:block;font-size:16px;line-height:1.25}
-.trust-item span{font-size:13px;color:var(--muted)}
+.trust-item div > span{display:block;font-size:13px;line-height:1.45;color:var(--muted);margin-top:2px}
 
 /* ---------- Season / service cards ---------- */
 .season-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}
@@ -265,7 +266,8 @@ fieldset.field{border:0;padding:0;margin:0}
 .side-card{border-radius:24px;padding:32px;display:grid;gap:22px}
 .side-card h3{font-size:24px}
 .contact-line{display:flex;gap:14px;align-items:flex-start}
-.contact-line .trust-icon{background:#fff}
+.contact-line .trust-icon{background:#fff;color:var(--ink);width:44px;height:44px;border-radius:12px;border-width:2px}
+.contact-line .trust-icon svg{width:22px;height:22px}
 .contact-line strong{display:block}
 .contact-line a,.contact-line span{color:var(--muted);text-decoration:none}
 .next-list{list-style:none;padding:0;display:grid;gap:14px;counter-reset:n}
