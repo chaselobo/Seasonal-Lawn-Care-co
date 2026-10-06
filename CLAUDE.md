@@ -4,7 +4,7 @@
 This project syncs with GitHub: https://github.com/chaselobo/Seasonal-Lawn-Care-co (remote `origin`, branch `main`).
 
 - **Before making any changes:** run `git pull --rebase origin main` so you're working on the latest version.
-- **After making changes:** commit with a clear message and `git push origin main`.
+- **After making changes:** commit first, then `git pull --rebase origin main` (picks up anything pushed meanwhile), then `git push origin main`. Git can't pull over uncommitted edits, so the commit has to come before that second pull.
 - Work directly on `main` (the owner asked for this; no feature branches needed).
 - If a pull hits a conflict, stop and ask before resolving anything you didn't write.
 
