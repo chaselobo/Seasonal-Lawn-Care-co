@@ -1,0 +1,206 @@
+{
+  "method": "Built-in image_gen imagegen tool",
+  "date": "2026-10-06",
+  "usage": "Illustrative service and equipment imagery, not photographs of actual owners or customer jobs.",
+  "assets": [
+    {
+      "file": "hero-crew",
+      "w": 1600,
+      "h": 1280,
+      "prompt": "undefinedLandscape 5:4 editorial photograph at eye level of a college-age adult student worker in plain navy long sleeve work shirt, tan work trousers and gloves raking fallen autumn leaves onto a tarp in an ordinary southern Indiana front yard. See the worker candidly from behind at three-quarter angle, no portrait or clear face. A coworker's gloved hands and rake only partially enter one edge, not a staged group or headcount. Modest brick ranch home, real pickup truck parked far back at curb with an open bed and secured garden tools. Mature maple tree with orange and gold leaves, green grass beneath scattered brown leaves. Mild warm late-afternoon light, true-to-life color, natural posture, realistic five-finger gloves, rake handle attached correctly. Documentary neighborhood work, not fashion photograph. Keep primary worker and tarp within central 75% for website crop.",
+      "edits": [],
+      "source": "generated-assets/originals/hero-crew.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-a80fa7ab-2ebc-408f-84bf-1a95dd9f16fd.png"
+    },
+    {
+      "file": "fall-feature-leaves",
+      "w": 1200,
+      "h": 1200,
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial service photography for a student-owned lawn care website in Bloomington, Indiana. Create a genuinely photographic image: real optical depth, believable materials, imperfect natural details, true anatomy and tool mechanics, ordinary modest Midwestern homes, understated natural colors. No illustration, CGI, glossy stock-photo posing, artificial HDR, exaggerated saturation, text, logo, watermark or legible branding. Square 1:1 close-up of a sturdy fan-shaped leaf rake pulling orange, brown and gold maple leaves across an ordinary healthy lawn. A work-gloved hand grips the continuous wooden rake handle, worker otherwise outside frame. Half-full brown paper yard-waste bag in the softly defocused background. Crisp autumn afternoon light. Leaves have irregular shapes, damp and dry textures, some grass and soil visible. Pile in lower-right. A believable practical fall cleanup.",
+      "edits": [],
+      "source": "generated-assets/originals/fall-feature-leaves.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-d0f64601-2f80-4ebb-bae1-63522afb9b32.png"
+    },
+    {
+      "file": "reliable-truck",
+      "w": 1400,
+      "h": 1050,
+      "prompt": "undefinedLandscape 4:3 close-to-medium realistic photograph of an ordinary clean older silver pickup parked along an Indiana residential curb at sunrise. Open tailgate and neatly secured practical yard equipment visible: a push mower, rakes, backpack blower, coiled hose, shovel. At near edge only an adult's navy sleeve and work-gloved hand holding a phone from the back are visible; no face, no readable display, no group. Soft morning dew on grass, modest houses and deciduous trees, reliable prepared-for-work feeling. Coherent pickup tailgate and bed geometry, plausible equipment storage, unbranded objects, no license plate text.",
+      "edits": [
+        "Use case: precise-object-edit. Edit only the smartphone in the gloved hand at the lower left of this photograph. The current phone is backward: the rear camera lenses face toward the worker. Rotate/flip the phone physically so its FRONT GLASS SCREEN faces toward the worker and toward this over-the-shoulder camera viewpoint. Replace the currently visible rear panel and rear camera cluster with a realistic dark glass front screen, a small earpiece at the top and subtle soft outdoor reflections. No rear camera lenses should be visible. Display can show a very faint generic schedule layout, but no readable text, logo or invented app branding. Keep the phone in the same position, same approximate size, perspective and natural grip. Preserve the gloved hand anatomy, navy sleeve, pickup truck, all equipment, house, street, light, shadows, framing and photographic texture exactly. Do not modify anything outside the phone area except tiny necessary contact shadows. Landscape 4:3. Photorealistic."
+      ],
+      "source": "generated-assets/originals/reliable-truck.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-f95febc5-7c2a-4c1d-ba92-b5dfb621e138.png"
+    },
+    {
+      "file": "service-spring",
+      "w": 1400,
+      "h": 1050,
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial service photography for a student-owned lawn care website in Bloomington, Indiana. Create a genuinely photographic image: real optical depth, believable materials, imperfect natural details, true anatomy and tool mechanics, ordinary modest Midwestern homes, understated natural colors. No illustration, CGI, glossy stock-photo posing, artificial HDR, exaggerated saturation, text, logo, watermark or legible branding. Landscape 4:3 photograph of a freshly cleaned suburban backyard in early spring in southern Indiana. Neatly raked naturally green lawn, clean edged flower beds with daffodils and a few tulips starting to bloom, flowering redbud tree in background. A realistic wheelbarrow containing small sticks and branches stands with a rake resting safely against it. Soft morning sunlight, modest brick ranch home partially visible. No people.",
+      "edits": [],
+      "source": "generated-assets/originals/service-spring.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-37493351-8963-481a-ab3a-807026b0effa.png"
+    },
+    {
+      "file": "service-mowing",
+      "w": 1400,
+      "h": 1050,
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial service photography for a student-owned lawn care website in Bloomington, Indiana. Create a genuinely photographic image: real optical depth, believable materials, imperfect natural details, true anatomy and tool mechanics, ordinary modest Midwestern homes, understated natural colors. No illustration, CGI, glossy stock-photo posing, artificial HDR, exaggerated saturation, text, logo, watermark or legible branding. Landscape 4:3 photograph of a freshly mowed modest suburban Indiana front lawn with subtle, natural parallel mowing stripes leading toward a tidy single-story home with a porch. An ordinary compact unbranded walk-behind push mower parked where the grass meets the sidewalk; real four wheels and coherent continuous handle. Crisp cut lawn edge, warm summer sunlight, blue sky and leafy mature trees. Low eye-level wide composition, real lawn texture, not perfect synthetic turf. No people.",
+      "edits": [],
+      "source": "generated-assets/originals/service-mowing.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-2aaa1287-cf52-4380-adf4-4f025284e5fd.png"
+    },
+    {
+      "file": "service-pressure-wash",
+      "w": 1600,
+      "h": 900,
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial service photography for a student-owned lawn care website in Bloomington, Indiana. Create a genuinely photographic image: real optical depth, believable materials, imperfect natural details, true anatomy and tool mechanics, ordinary modest Midwestern homes, understated natural colors. No illustration, CGI, glossy stock-photo posing, artificial HDR, exaggerated saturation, text, logo, watermark or legible branding. Wide landscape 16:9 documentary action photograph of pressure washing a modest residential concrete driveway. One adult worker cropped above the waist, wearing navy work shirt, work trousers, sturdy waterproof work boots and gloves. Anatomically correct hands grip a realistic long single metal pressure-washer lance; visible small fan-shaped water jet emerges only from its nozzle toward the concrete, away from feet. Adjacent sections of concrete show believable dirty gray-green mildew and newly cleaned pale gray pavement, still with pores and age marks. Fine water droplets catch summer daylight. The worker and wand occupy the right side; cleaned driveway fills foreground. Correct connected equipment mechanics.",
+      "edits": [],
+      "source": "generated-assets/originals/service-pressure-wash.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-2d343b62-09c0-42bb-a5d1-9fb129d6c4f2.png"
+    },
+    {
+      "file": "service-fall",
+      "w": 1400,
+      "h": 1050,
+      "prompt": "undefinedLandscape 4:3 candid documentary photograph of adult college-age yard workers doing an autumn leaf cleanup outside an ordinary single-story brick ranch in southern Indiana. Navy plain t-shirts or hoodies, work trousers, gloves, and hearing protection. View from behind and side so no recognizable faces. A worker operates a physically realistic backpack blower using its connected handheld nozzle close to the ground while a coworker's partially visible gloved arms rake leaves toward a large green tarp. Leaves move in a small realistic wave, not a huge dramatic airborne cloud. Mature maple trees with some orange leaves still attached, late afternoon daylight. Natural practical working posture and coherent tools.",
+      "edits": [
+        "Remove the brand name and all label lettering from the backpack blower, leaving plain realistic orange, black and gray plastic. Remove the garden banner and its stand at the right background entirely, replacing it with continuous grass and fallen leaves. Remove the narrow HOME sign by the front door. Change nothing else: preserve both workers, anatomy, tool geometry, house, trees, framing, light, textures and original photographic realism. Do not add text, labels or new objects."
+      ],
+      "source": "generated-assets/originals/service-fall.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-528230ab-b675-4a84-9341-6f9c40b62cfa.png"
+    },
+    {
+      "file": "service-gutters",
+      "w": 1600,
+      "h": 900,
+      "prompt": "undefinedWide landscape 16:9 close-up photograph from the side of a white aluminum gutter on a modest single-story Indiana home. A work-gloved hand gently scoops wet brown leaves into a bucket; owner remains off-camera. Real shallow metal gutter trough attached to the fascia under asphalt shingles, visible correct bracket structure and some water droplets. Stable properly set extension ladder visible at the far side, worker's body out of frame, no standing on roof or perched ladder top. Soft cloudy autumn daylight, blurred bare branches. Natural material texture and physically plausible gutter cleaning.",
+      "edits": [
+        "Remove ONLY the visible brand patches/text/logos from the glove wrist and the ladder rail. Replace with plain matching glove fabric and plain matching aluminum/blue ladder surfaces, preserving seams, shadows and material. Preserve every other detail, exact framing, gutter, leaves, hand anatomy, house, ladder position, bucket and natural photo texture. No text or logos added."
+      ],
+      "source": "generated-assets/originals/service-gutters.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-ac4cce97-7a3c-40f3-bc5d-816e521c91c4.png"
+    },
+    {
+      "file": "service-snow",
+      "w": 1400,
+      "h": 1050,
+      "prompt": "undefinedLandscape 4:3 realistic early morning photograph of a modest Indiana single-story home with a freshly shoveled concrete driveway and front walk, clean but imperfect shovel edges, compact small snowbanks along both sides. About four inches of fresh snow blanket the lawn and roof. Real unbranded snow shovel resting securely beside garage door. Soft blue dawn with warm porch light, bare deciduous trees, ordinary quiet neighborhood. Some damp concrete patches and scattered granular snow, no unrealistically immaculate render, no people.",
+      "edits": [],
+      "source": "generated-assets/originals/service-snow.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-3292cf08-15e7-4395-9e40-901f57ca0a57.png"
+    },
+    {
+      "file": "service-lights",
+      "w": 1600,
+      "h": 900,
+      "prompt": "undefinedWide landscape 16:9 natural real-estate style dusk photograph of a modest single-story Indiana home. Warm white small LED string lights carefully wrapped around low front-yard boxwood bushes and the branches of a small ornamental tree. A simple porch railing also wrapped. Absolutely no roofline lights. Light dusting of snow on lawn, deep blue winter evening sky, inviting understated decoration rather than extravagant Christmas display. Real visible wires and evenly modest warm bulbs, realistic exposure with detail in shadows, no impossible glowing foliage, no people.",
+      "edits": [
+        "Remove the dark garden banner reading Good Neighbors Brighter Days, its stand in the right foreground, the narrow HOME porch sign, and the numeric house address beside the door. Fill naturally with matching continuous ground/grass/snow and wall or porch material. Preserve all holiday lights, exact house geometry, branches, windows, snow, natural dusk lighting and photographic realism. Do not add any writing or logos."
+      ],
+      "source": "generated-assets/originals/service-lights.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-bca950da-610c-48cd-9b66-e367df59d56e.png"
+    },
+    {
+      "file": "service-rental",
+      "w": 1400,
+      "h": 1050,
+      "prompt": "undefinedLandscape 4:3 realistic daylight property photograph of a modest older two-story wood-sided rental house in an Indiana college-town neighborhood, simple porch and mature shade tree, freshly swept front steps, ordinary trimmed lawn and clear walkway. A small orderly row of filled brown paper yard bags and tied bundles of small branches at curb, awaiting pickup. Bright natural clear autumn daylight, welcoming move-in-ready feeling. Actual weathered wood and concrete detail, not affluent luxury house, no people, no signs, no logos.",
+      "edits": [],
+      "source": "generated-assets/originals/service-rental.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-4f03f6b8-a5ff-41f8-9136-fd3240c067fb.png"
+    },
+    {
+      "file": "about-equipment",
+      "w": 1400,
+      "h": 1050,
+      "prompt": "undefinedLandscape 4:3 realistic close photograph of open tailgate and bed of a clean used silver pickup with a practical compact assortment of maintained outdoor tools. Push mower sitting securely inside bed, backpack blower, long-handled rake and shovel laid safely along bed, coiled garden hose, gloves and folded green tarp on tailgate. A modest plastic tote of coiled holiday string lights near bed side. Do not overcrowd or fuse tools; realistic handles, blade guards, straps and wheels. Mild late-afternoon daylight in a leafy Indiana driveway, slightly elevated camera looking into truck bed. No people, no branding, no readable text.",
+      "edits": [],
+      "source": "generated-assets/originals/about-equipment.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-7ad3077c-dc2f-4c7b-979d-52784dbcf6e3.png"
+    },
+    {
+      "file": "about-ready-to-work",
+      "w": 1600,
+      "h": 1200,
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial service photography for a student-owned lawn care website in Bloomington, Indiana. Create a genuinely photographic image: real optical depth, believable materials, imperfect natural details, true anatomy and tool mechanics, ordinary modest Midwestern homes, understated natural colors. No illustration, CGI, glossy stock-photo posing, artificial HDR, exaggerated saturation, text, logo, watermark or legible branding. Landscape 4:3 candid editorial detail photo of preparations for a student yard-care job in a leafy Indiana neighborhood. Foreground open pickup tailgate with a neatly folded plain navy cotton work shirt, sturdy leather work gloves, a metal water bottle without text and a folded olive-green tarp. In the truck bed behind, a practical push mower and rake are partly visible. Background modest house and lawn softly blurred. No person or portrait. Morning sunlight, slightly worn real materials, simple resourceful college-student small-business feel, not an expensive commercial fleet or staged advertising still life.",
+      "edits": [],
+      "source": "generated-assets/originals/about-ready-to-work.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-6be49e30-b6ef-49d7-ba16-7ab336ad9602.png"
+    },
+    {
+      "file": "crew-spring",
+      "w": 800,
+      "h": 1000,
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial service photography for a student-owned lawn care website in Bloomington, Indiana. Create a genuinely photographic image: real optical depth, believable materials, imperfect natural details, true anatomy and tool mechanics, ordinary modest Midwestern homes, understated natural colors. No illustration, CGI, glossy stock-photo posing, artificial HDR, exaggerated saturation, text, logo, watermark or legible branding. Vertical portrait orientation 4:5 realistic detail photo of spring yard cleanup tools, not a person portrait. A practical gray wheelbarrow full of thin pruned sticks and last season's dry leaves on an Indiana lawn, real metal leaf rake resting against it, worn tan work gloves draped over the wheelbarrow rim. Daffodils and fresh small green leaves in soft background, modest garden fence. Natural spring morning daylight, believable materials and proportions, calm candid close composition.",
+      "edits": [],
+      "source": "generated-assets/originals/crew-spring.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-c203170b-cc69-48f9-a316-3660f526a92f.png"
+    },
+    {
+      "file": "crew-summer",
+      "w": 800,
+      "h": 1000,
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial service photography for a student-owned lawn care website in Bloomington, Indiana. Create a genuinely photographic image: real optical depth, believable materials, imperfect natural details, true anatomy and tool mechanics, ordinary modest Midwestern homes, understated natural colors. No illustration, CGI, glossy stock-photo posing, artificial HDR, exaggerated saturation, text, logo, watermark or legible branding. Vertical 4:5 realistic close low-angle photograph of an ordinary push lawn mower parked on the edge of a recently cut green lawn, focus on realistic rear wheel, metal deck and grass texture. Long continuous handle rises toward top of frame, no user and no body visible. Slight dried grass clippings on the mower deck, clean path edge, sunlight and leafy summer garden in background. Ordinary well-maintained work equipment, honest suburban yard-care detail, no branding.",
+      "edits": [],
+      "source": "generated-assets/originals/crew-summer.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-48de5085-1343-47a1-b1fd-15825a0e09f4.png"
+    },
+    {
+      "file": "crew-fall",
+      "w": 800,
+      "h": 1000,
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial service photography for a student-owned lawn care website in Bloomington, Indiana. Create a genuinely photographic image: real optical depth, believable materials, imperfect natural details, true anatomy and tool mechanics, ordinary modest Midwestern homes, understated natural colors. No illustration, CGI, glossy stock-photo posing, artificial HDR, exaggerated saturation, text, logo, watermark or legible branding. Vertical 4:5 realistic photograph of autumn cleanup gear in an ordinary residential Indiana yard. A partly filled brown paper yard-waste bag stands on grass beside a grounded black backpack leaf blower with coherent body, straps, flexible hose and nozzle, and a leaf rake resting against a tree. Brown and orange leaves scattered nearby, leafy background in soft focus. Warm afternoon light, practical believable tool arrangement, no people, no logos or readable text.",
+      "edits": [],
+      "source": "generated-assets/originals/crew-fall.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-004b76ed-de30-4a64-8cc2-d79366c452e2.png"
+    },
+    {
+      "file": "crew-winter",
+      "w": 800,
+      "h": 1000,
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial service photography for a student-owned lawn care website in Bloomington, Indiana. Create a genuinely photographic image: real optical depth, believable materials, imperfect natural details, true anatomy and tool mechanics, ordinary modest Midwestern homes, understated natural colors. No illustration, CGI, glossy stock-photo posing, artificial HDR, exaggerated saturation, text, logo, watermark or legible branding. Vertical 4:5 close realistic photograph of a snow shovel with navy handle and sturdy black scoop resting on the ground beside a freshly cleared front walkway of a modest Indiana home. A small low evergreen bush with warm white holiday string lights behind, fresh snow on grass and some snow grains clinging to shovel edge. Natural late afternoon winter light with soft blue shadows and gentle warm bulbs. No people, no roofline lights, no text, no logos. Authentic useful seasonal work detail.",
+      "edits": [],
+      "source": "generated-assets/originals/crew-winter.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-2cb7cf42-38fd-4321-8397-648e2337e670.png"
+    },
+    {
+      "file": "gallery-leaves",
+      "w": 1200,
+      "h": 1200,
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial service photography for a student-owned lawn care website in Bloomington, Indiana. Create a genuinely photographic image: real optical depth, believable materials, imperfect natural details, true anatomy and tool mechanics, ordinary modest Midwestern homes, understated natural colors. No illustration, CGI, glossy stock-photo posing, artificial HDR, exaggerated saturation, text, logo, watermark or legible branding. Square 1:1 close medium realistic photograph of a large olive green garden tarp holding an ordinary mound of raked orange and brown leaves on a partly cleared Indiana front lawn. Worn tan work gloves and a wooden-handled fan rake rest beside the tarp. A few filled paper yard bags at far edge. Single-story home and golden trees softly blurred in background. Overcast autumn daylight, believable leaf texture, practical service detail, no people, no before-and-after split and no words.",
+      "edits": [],
+      "source": "generated-assets/originals/gallery-leaves.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-a1e9f529-d365-4b3e-8241-a6e3f84c1239.png"
+    },
+    {
+      "file": "gallery-driveway",
+      "w": 1200,
+      "h": 1200,
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial service photography for a student-owned lawn care website in Bloomington, Indiana. Create a genuinely photographic image: real optical depth, believable materials, imperfect natural details, true anatomy and tool mechanics, ordinary modest Midwestern homes, understated natural colors. No illustration, CGI, glossy stock-photo posing, artificial HDR, exaggerated saturation, text, logo, watermark or legible branding. Square 1:1 realistic photograph of a residential concrete driveway during pressure washing. Foreground a realistic black circular wheeled pressure-washer surface-cleaner attachment resting flat on damp concrete, coherent upright metal handle and connected black high-pressure hose trailing out of frame. Part of the driveway freshly cleaned pale gray with wet patches; some remaining gray grime at far edge. Modest house partly visible and green lawn bordering concrete. Natural daylight, real pores and hairline concrete cracks, not pristine rendering. No people, no split screen, no branding, no text.",
+      "edits": [
+        "Use case: precise-object-edit. Edit target: the supplied square driveway photograph for a student-run lawn care website. Replace the entire round wheeled surface-cleaner attachment, its upright double metal handle and attached hose with a realistic HANDHELD PRESSURE WASHER SPRAY WAND actively washing this same concrete driveway. A partially cropped adult operator at the right edge, navy work sleeves, tan work pants, gloves and waterproof boots, naturally holds a black trigger pistol with one hand and supports the single straight metal lance with the other. The lance angles diagonally downward toward center foreground. A small realistic fan-shaped high-pressure spray emerges ONLY from the nozzle and hits the concrete away from the worker's boots; subtle mist, scattered droplets and wet runoff around the contact patch. A black high-pressure hose connects to the base of the pistol and trails out of frame. Keep most of the operator outside the right border and face outside the frame; focus is the spray and concrete. Preserve the same house, green lawn, driveway geometry, natural daylight, camera perspective, real concrete texture, square composition and realistic photographic style. Remove ALL traces of the original round surface cleaner. No split screen, no text, no logos, no extreme spray cloud, no extra hands, no floating or disconnected components. The result should look like a candid real photograph with believable pressure-washing mechanics."
+      ],
+      "source": "generated-assets/originals/gallery-driveway.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-0b2f30b0-daa8-4fa5-a2ff-d71a33c72ec0.png"
+    },
+    {
+      "file": "gallery-gutters",
+      "w": 1200,
+      "h": 1200,
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial service photography for a student-owned lawn care website in Bloomington, Indiana. Create a genuinely photographic image: real optical depth, believable materials, imperfect natural details, true anatomy and tool mechanics, ordinary modest Midwestern homes, understated natural colors. No illustration, CGI, glossy stock-photo posing, artificial HDR, exaggerated saturation, text, logo, watermark or legible branding. Square 1:1 realistic detail photograph looking along a clean white aluminum rain gutter at the low roof edge of a modest single-story home. Actual shallow open trough under dark asphalt shingles, damp bottom with droplets, coherent metal hangers and outlet. Tan work gloves and a small plastic scoop are held by a partially visible forearm near edge, no body or face. A bucket with removed leaves sits below beyond gutter. Soft autumn daylight, background out-of-focus brown maple leaves and lawn. Show useful practical gutter care, no unsafe roof work, no before-and-after split.",
+      "edits": [],
+      "source": "generated-assets/originals/gallery-gutters.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-d6e8c14e-2ff1-4ddd-a7c9-fbe41cc38abf.png"
+    },
+    {
+      "file": "neighborhood-seasons",
+      "w": 1600,
+      "h": 1200,
+      "prompt": "Use case: photorealistic-natural. Asset type: editorial service photography for a student-owned lawn care website in Bloomington, Indiana. Create a genuinely photographic image: real optical depth, believable materials, imperfect natural details, true anatomy and tool mechanics, ordinary modest Midwestern homes, understated natural colors. No illustration, CGI, glossy stock-photo posing, artificial HDR, exaggerated saturation, text, logo, watermark or legible branding. Landscape 4:3 photorealistic four-season photographic montage, no illustration. Four equal vertical panels side-by-side show THE SAME ordinary southern Indiana neighborhood street from exactly the same eye-level viewpoint across the year. Repeated coherent modest ranch house, limestone garden edge, large deciduous tree and sidewalk geometry in all panels. Left panel: early spring with fresh leaves, redbud blossoms and green lawn. Second panel: lush leafy summer, mowed lawn and warm sun. Third panel: autumn maple oranges with scattered leaves. Fourth panel: winter bare tree, modest snowfall and warm lights wrapped only on low bushes. Real photographic textures, believable seasonal lighting and houses, documentary suburban photography. Clean vertical transition edges like a carefully matched photography series; no borders, no text, no labels, no people or logos. All panels in one single image.",
+      "edits": [],
+      "source": "generated-assets/originals/neighborhood-seasons.png",
+      "generatedPath": "/Users/chaselobosco/.codex/generated_images/01a11191-d65e-7ee2-b41e-5697d6a5eb20/exec-b7253e48-e3a2-4cfb-8295-471e368900cf.png"
+    }
+  ]
+}

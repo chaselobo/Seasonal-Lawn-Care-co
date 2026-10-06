@@ -1,0 +1,12 @@
+Generation method: built-in image_gen imagegen tool.
+Prompt brief below updated after generation to remove the crew headcount; the logo artwork is unchanged.
+Primary output: assets/monroe-four-seasons-logo.png (transparent PNG).
+Original generated asset is preserved without raster edits.
+Website companion season icons were authored separately as SVG.
+
+Use case: logo-brand.
+Create a completely new standalone business logo for "Monroe Seasonal Co.", a friendly business run by Indiana University students doing lawn and exterior care in Monroe County, Indiana. This replaces a rejected luxurious serif forest-green-and-gold identity. The new identity should feel like an energetic, trustworthy college student yard-work crew: approachable, cheerful, outdoorsy, practical, clean enough for a truck decal and website.
+Composition: one centered compact horizontal logo lockup, generously filling the canvas with only modest clear space. At left, an exceptionally clean four-season emblem: four rounded square tiles in a tidy 2x2 arrangement. Each tile has exactly one bold simple symbol: SPRING a green sprout with two leaves; SUMMER a warm yellow sun with rays; FALL a vivid orange oak/maple leaf; WINTER a sky-blue six-armed snowflake. The quartet must instantly communicate all four seasons. Flat color with navy accents; distinct recognizable shapes, no gradients, no texture.
+At right, large heavy friendly rounded sans-serif lettering "MONROE" in deep navy #17364D, with "SEASONAL CO." below in bold navy sans-serif. Under that add a smaller readable navy line "LAWN & EXTERIOR CARE". Exact spelling. No other text.
+Palette: fresh grass green #48A34A, warm sun yellow #F8C543, autumn orange #ED783D, winter blue #59AFE0, navy #17364D. Spring green and navy are the main business colors while all four season colors appear in the emblem. Typography should be casual confident college-club lettering, not high-end, not ornate, not a varsity sports mascot, not children's daycare lettering.
+A genuine transparent background with alpha. Flat logo artwork only. No product mockup, no drop shadow, no photorealism, no paper background, no rounded overall background card. No arched monogram, gold, premium serif, college logos, IU trident, graduation cap, claims of university endorsement, or extra people. Crisp bold silhouettes readable when reduced.
